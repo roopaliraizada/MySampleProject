@@ -3,4 +3,10 @@
   <groupId>com.edu.sample</groupId>
   <artifactId>sampleproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependency>
+  <groupId>com.puppycrawl.tools</groupId>
+  <artifactId>checkstyle</artifactId>
+  <version>7.1.2</version>
+</dependency>
 </project>
